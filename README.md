@@ -22,7 +22,7 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 
 ![drtsilva94's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtsilva94&show_icons=true&theme=transparent)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtsilva94&layout=donut)](https://github.com/drtsilva94/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtsilva94&layout=compact)
 
 
 
