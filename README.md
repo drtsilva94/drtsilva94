@@ -1,4 +1,4 @@
-
+### Anna 
 
 Estudante de Sistemas de informação na Estácio e desenvolvedora iniciante. Comecei minha jornada em tecnologia em 2023, e desde então estou aprofundando meus conhecimentos em Sistemas de Informação, e em outros cursos na área de TI. 
 
@@ -22,6 +22,7 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 
 ![drtsilva94's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtsilva94&show_icons=true&theme=transparent)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtsilva94&layout=donut)](https://github.com/drtsilva94/github-readme-stats)
 
 <!--
 **drtsilva94/drtsilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
