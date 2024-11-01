@@ -1,6 +1,4 @@
-## Hi there 👋
 
-## Sobre Mim
 
 Estudante de Sistemas de informação na Estácio e desenvolvedora iniciante. Comecei minha jornada em tecnologia em 2023, e desde então estou aprofundando meus conhecimentos em Sistemas de Informação, e em outros cursos na área de TI. 
 
