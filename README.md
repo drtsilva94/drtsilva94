@@ -8,7 +8,7 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 
 ### Habilidades Técnicas
 
-- **Linguagens e Ferramentas**: Python, Java, HTML, CSS, JavaScript  
+- **Linguagens e Ferramentas**: Python, HTML, CSS, JavaScript  
 - **Versionamento de Código**: Git, GitHub  
 - **Bibliotecas e Frameworks**: pytest  
 - **Banco de Dados**: SQL Server (nível inicial)
@@ -24,17 +24,5 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=drtsilva94&layout=donut)](https://github.com/drtsilva94/github-readme-stats)
 
-<!--
-**drtsilva94/drtsilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
