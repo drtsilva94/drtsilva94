@@ -20,6 +20,8 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 - **Espanhol**: Fluente  
 - **Inglês**: Intermediário, em constante aprimoramento
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtsilva94&show_icons=true&theme=transparent)
+
 
 <!--
 **drtsilva94/drtsilva94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
