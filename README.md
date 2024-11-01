@@ -20,7 +20,9 @@ Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo 
 - **Espanhol**: Fluente  
 - **Inglês**: Intermediário, em constante aprimoramento
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtsilva94&show_icons=true&theme=transparent)
+### Minhas Estatísticas 
+
+![drtsilva94's GitHub stats](https://github-readme-stats.vercel.app/api?username=drtsilva94&show_icons=true&theme=transparent)
 
 
 <!--
