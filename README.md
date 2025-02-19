@@ -2,7 +2,6 @@
 
 Estudante de Sistemas de informação e desenvolvedora fullstack. Comecei minha jornada em tecnologia em 2023, e desde então estou aprofundando meus conhecimentos na área de TI. 
 
-Bootcamps em Andamento: Santander Bootcamp - Fullstack Java+Angular (conclusão prevista para janeiro de 2025)
 
 Atualmente estou aprimorando minhas habilidades de programação, desenvolvendo projetos pessoais no GitHub, e em busca de oportunidades de estágio para expandir minha experiência na área de TI.
 
